@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there! 👋 I'm Christine Wu  
 
-<!--
-**chw081/chw081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**👩‍💻 Software Developer | 🧠 AI Enthusiast | 🎓 UC San Diego Student**  
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about leveraging technology to solve problems and bring ideas to life. From interactive web applications to AI-powered models, my projects reflect my dedication to learning and building innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧐 Skills and Expertise  
+**Languages:** Python, Java, C++, TypeScript, SQL, Bash, JavaScript, HTML, CSS  
+**Frameworks & Tools:** React, TensorFlow, TailwindCSS, Vite, Docker, Git, Node.js  
+**Technologies:** Linux, GitHub, MongoDB, PostgreSQL, NumPy, Scikit-Learn  
+
+---
+
+## 🌟 Featured Projects  
+### [Wish Simulator Web App](https://we-wish-simulator.vercel.app)  
+*Interactive app designed for the UC San Diego community to simulate card collection excitement!*  
+- **Features:** Single and multi-card draws, inventory management, responsive design.  
+- **Tech Stack:** React (TypeScript), TailwindCSS, Vite, Vercel.  
+- [Learn more about the Wish Simulator](https://github.com/chw081/we-wish-simulator).
+
+### [Banking App with Finance Management Dashboard](https://banking-wine.vercel.app)
+- Built a dashboard with **Next.js** for real-time transaction insights.  
+- Integrated APIs for bank linking and secure fund transfers.  
+- Leveraged **ShadCN** for reusable components and **Appwrite** for backend services.
+- [Learn more about the Banking App](https://github.com/chw081/banking).
+
+### Note-Taking App  
+- Developed a dynamic app for creating, editing, and organizing notes with labels and a favorite system.  
+- Utilized **React Hooks** for state management and real-time updates.
+
+### Personalized Recommender System  
+- Built collaborative filtering and deep learning models to predict user preferences.  
+- Improved MSE by 0.6 using TensorFlow and the Surprise library.  
+
+---
+
+## 📬 Let's Connect!  
+- **Email:** [cwu20210923@gmail.com](mailto:cwu20210923@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/christine-wu-2bab27243](https://linkedin.com/in/christine-wu-2bab27243)  
+- **GitHub:** [github.com/chw081](https://github.com/chw081)  
+
+---
+
+**"Passion fuels my curiosity, and technology drives my creativity!"**  
+
+Feel free to explore my repositories and connect with me for collaborations or discussions! 😊
