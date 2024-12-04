@@ -43,6 +43,5 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to solv
 
 ---
 
-**"Passion fuels my curiosity, and technology drives my creativity!"**  
 
 Feel free to explore my repositories and connect with me for collaborations or discussions! 😊
