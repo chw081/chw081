@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to solv
 ---
 
 ## 🧐 Skills and Expertise  
-**Languages:** Python, Java, C++, C, TypeScript, JavaScript, HTML, CSS, LaTeX, R, SQL, Bash  
-**Frameworks & Tools:** React.js, Vue.js, Next.js, Express.js, JavaFX, TensorFlow, PyTorch, Keras, TailwindCSS, Vite, Docker, Git, Node.js, Anaconda  
+**Languages:** Python, Java, C++, C, TypeScript, JavaScript, HTML, CSS, LaTeX, R, SQL, Bash<br> 
+**Frameworks & Tools:** React.js, Vue.js, Next.js, Express.js, JavaFX, TensorFlow, PyTorch, Keras, TailwindCSS, Vite, Docker, Git, Node.js, Anaconda<br>
 **Technologies:** Linux, GitHub, Vercel, MongoDB, PostgreSQL, MySQL, SQLite, NumPy, SciPy, scikit-learn, Plotly, Canva, Figma
 
 ---
