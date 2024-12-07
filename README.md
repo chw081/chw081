@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to solv
 ## 🌟 Featured Projects  
 ### [Wish Simulator Web App](https://we-wish-simulator.vercel.app)  
 *Interactive app designed for the UC San Diego community to simulate card collection excitement!*  
-- **Features:** Single and multi-card draws, inventory management, responsive design.  
+- **Features:** Simulates game card draws with single and multi-card options. Includes inventory management to keep track of collected cards, rarity categorization, and a dynamic wish history log. Optimized for a seamless user experience with responsive design.
 - **Tech Stack:** React (TypeScript), TailwindCSS, Vite, Vercel.  
 - [Learn more about the Wish Simulator](https://github.com/chw081/we-wish-simulator).
 
@@ -26,9 +26,11 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to solv
 - Leveraged **ShadCN** for reusable components and **Appwrite** for backend services.
 - [Learn more about the Banking App](https://github.com/chw081/banking).
 
-### Note-Taking App  
-- Developed a dynamic app for creating, editing, and organizing notes with labels and a favorite system.  
-- Utilized **React Hooks** for state management and real-time updates.
+### [Sticky Planner](https://sticky-planner.vercel.app)
+*A robust note-taking and organization app designed to keep you on top of your tasks!*  
+- **Features:** Create, edit, and organize notes with labels, favorite system, and theme toggling. Allows editing note titles, content, and labels dynamically using content-editable fields. Provides seamless real-time updates.
+- **Tech Stack:** React (JavaScript), CSS, Vite, React Router.
+- [Learn more about the Sticky Planner](https://github.com/chw081/Sticky-Planner).
 
 ### Personalized Recommender System  
 - Built collaborative filtering and deep learning models to predict user preferences.  
