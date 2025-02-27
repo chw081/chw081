@@ -3,6 +3,10 @@
 **👩‍💻 Software Developer | 🧠 AI Enthusiast | 🎓 UC San Diego Student**  
 
 Welcome to my GitHub profile! I'm passionate about leveraging technology to solve problems and bring ideas to life. From interactive web applications to AI-powered models, my projects reflect my dedication to learning and building innovative solutions.
+AI & ML Development – Experience in deep learning model optimization, image processing, and generative AI.
+Full-Stack Development – Skilled in backend and frontend development, building scalable, interactive applications.
+Data Engineering & Analysis – Proficient in database management, data preprocessing, and big data analytics.
+Problem-Solving & Optimization – Strong algorithmic thinking with experience in systems programming, optimization, and graph theory.
 
 ---
 
