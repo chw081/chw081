@@ -1,5 +1,10 @@
 # Hi there! 👋 I'm Christine Wu  
 
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/chw081/count.svg" alt="Visitor's Count" />
+</div>
+
 **👩‍💻 Software Developer | 🧠 AI Enthusiast | 🎓 UC San Diego Student**  
 
 Welcome to my GitHub profile! I'm passionate about leveraging technology to solve problems and bring ideas to life. From interactive web applications to AI-powered models, my projects reflect my dedication to learning and building innovative solutions.
