@@ -14,13 +14,11 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to solv
 - Data Engineering & Analysis – Proficient in database management, data preprocessing, and big data analytics.
 - Problem-Solving & Optimization – Strong algorithmic thinking with experience in systems programming, optimization, and graph theory.
 
----
-
 ## 🧐 Skills and Expertise  
 
 <div align="center">
 
-<!-- Programming Languages -->
+<!-- Languages -->
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -29,42 +27,31 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to solv
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-<!-- Frameworks & Libraries -->
+<!-- Frameworks & Data -->
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySide6-41B4E6?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Room-1976d2?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Manim-1D6F42?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-<!-- Databases & Data -->
-<p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
-<!-- Cloud, DevOps, Tools -->
+<!-- DevOps, Cloud, Design -->
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -72,35 +59,17 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to solv
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-007396?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
-<p>
   <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
-<!-- APIs & Protocols -->
-<p>
-  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plaid-0082CB?style=for-the-badge&logo=plaid&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dwolla-F47A20?style=for-the-badge&logo=dwolla&logoColor=white" />
-</p>
-
-<!-- Design & Other Tools -->
-<p>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile-27AE60?style=for-the-badge&logo=scrum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sprint%20Planning-FFC107?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Procreate-1D1D1D?style=for-the-badge&logo=procreate&logoColor=white" />
 </p>
 
 </div>
----
+
 
 ## 🌟 Featured Projects  
 ### [Wish Simulator Web App](https://we-wish-simulator.vercel.app)  
@@ -125,14 +94,9 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to solv
 - Built collaborative filtering and deep learning models to predict user preferences.  
 - Improved MSE by 0.6 using TensorFlow and the Surprise library.  
 
----
-
 ## 📬 Let's Connect!  
 - **Email:** [cwu20210923@gmail.com](mailto:cwu20210923@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/christine-wu-2bab27243](https://linkedin.com/in/christine-wu-2bab27243)  
 - **GitHub:** [github.com/chw081](https://github.com/chw081)  
-
----
-
 
 Feel free to explore my repositories and connect with me for collaborations or discussions! 😊
