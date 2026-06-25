@@ -118,7 +118,7 @@ AWS · Docker · Vercel · GitHub Actions · CI/CD · Linux
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chw081&layout=compact&hide_border=true&exclude_repo=2048-Puzzle-Game,amplify-vite-react-template,chw081,commonmark-java,CSE-110-LAB,cse15l-lab-reports,feeling-forest,manim-math-demo,markdown-parser,MyFirstPullRequest,nen-db)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chw081&layout=compact&hide_border=true&,amplify-vite-react-template,chw081,commonmark-java,CSE-110-LAB,cse15l-lab-reports,feeling-forest,markdown-parser,MyFirstPullRequest,nen-db)
 
 ---
 
