@@ -116,13 +116,9 @@ AWS · Docker · Vercel · GitHub Actions · CI/CD · Linux
 
 ---
 
-## GitHub Stats
+## Top Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chw081&show_icons=true&hide_border=true&exclude_repo=commonmark-java)
-
-[![Christine's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chw081&theme=minimal&hide_border=true)](https://github.com/chw081)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chw081&layout=compact&hide_border=true&exclude_repo=commonmark-java)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chw081&layout=compact&hide_border=true&exclude_repo=2048-Puzzle-Game,amplify-vite-react-template,chw081,commonmark-java,CSE-110-LAB,cse15l-lab-reports,feeling-forest,manim-math-demo,markdown-parser,MyFirstPullRequest,nen-db)
 
 ---
 
