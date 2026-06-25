@@ -118,11 +118,11 @@ AWS · Docker · Vercel · GitHub Actions · CI/CD · Linux
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chw081&theme=default)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chw081&show_icons=true&hide_border=true&exclude_repo=commonmark-java)
 
 [![Christine's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chw081&theme=minimal&hide_border=true)](https://github.com/chw081)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chw081&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chw081&layout=compact&hide_border=true&exclude_repo=commonmark-java)
 
 ---
 
