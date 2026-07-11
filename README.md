@@ -116,9 +116,9 @@ AWS · Docker · Vercel · GitHub Actions · CI/CD · Linux
 
 ---
 
-## Top Languages
+## Technologies
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chw081&layout=compact&hide_border=true&exclude_repo=2048-Puzzle-Game,amplify-vite-react-template,chw081,commonmark-java,CSE-110-LAB,cse15l-lab-reports,feeling-forest,markdown-parser,MyFirstPullRequest,nen-db)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,react,nextjs,ts,postgres,git,github)](https://skillicons.dev)
 
 ---
 
